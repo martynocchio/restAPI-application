@@ -9,7 +9,7 @@ const (
 	userTable       = "users"
 	todoListsTable  = "todo_lists"
 	usersListsTable = "users_lists"
-	todoItemTable   = "todo_items"
+	todoItemsTable  = "todo_items"
 	listsItemsTable = "lists_items"
 )
 
